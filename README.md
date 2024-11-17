@@ -10,6 +10,7 @@
 
 + 新增了[ChatBotMore.list](./Clash/Ruleset/ChatBotMore.list)，以更新额外的AI网站规则
   + 添加了`notebooklm.google.com`
+  + 添加了`perplexity.ai`
 
 ## 支持功能
 
